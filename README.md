@@ -1,3 +1,3 @@
 # Hello-World
 my first repository
-I have to something!
+I have to do something!
